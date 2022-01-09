@@ -45,7 +45,7 @@ If you have any questions feel free to contact me here:
 
 ## License
 MIT
-[undefined]## ![example](https://user-images.githubusercontent.com/92649046/148665227-f65a73d8-3174-4e69-a88b-01f1697ce9cd.JPG)
+(https://user-images.githubusercontent.com/92649046/148665227-f65a73d8-3174-4e69-a88b-01f1697ce9cd.JPG)
 
 
- ![Image of Application](READme-Generator\assets\example.JPG)
+ 
